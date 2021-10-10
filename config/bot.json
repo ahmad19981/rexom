@@ -1,14 +1,14 @@
 {
     "activity": {
-        "name": "<The Bot Activity Name>",
-        "type": "<The Bot Activity Type>"
+        "name": "HELP",
+        "type": "playing"
     },
-    "status": "<The Bot Status>",
+    "status": "dnd",
 
-    "domain": "<The Bot Website Domain>",
-    "clientID": "<The Bot Id>",
-    "clientSECRET": "<The Bot Secret>",
+    "domain": "https://asdasdads123.herokuapp.com/",
+    "clientID": "<672945130579427359",
+    "clientSECRET": "Jsp0SRoqWp592Sm_OWWAMRYMnBiUCHUA",
 
-    "mainPrefix": "<The Bot Prefix>",
-    "mainLang": "<The Bot Lang, only: ['ar', 'en']>"
+    "mainPrefix": "?",
+    "mainLang": "ar"
 }
